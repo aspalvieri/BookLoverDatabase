@@ -1,0 +1,35 @@
+﻿@charset "UTF-8";
+
+.bookImage {
+    display: block;
+    margin: auto auto;
+    width: 150px;
+    height: 150px;
+}
+
+footer div p {
+    padding-top: 10px;
+}
+
+.panel {
+    margin-bottom: 10px;
+}
+
+h1, h2, h3 {
+    margin-top: 0px;
+}
+
+.searchpanel {
+    width: 200px;
+    display: inline-block;
+}
+
+.searchbutton {
+    display: inline-block;
+}
+
+#namedisplay {
+    float: right;
+    font-size: 16px;
+    color: rgb(77, 77, 77);
+}
